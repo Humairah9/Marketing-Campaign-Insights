@@ -2,7 +2,7 @@
 I performed an EDA on a digital marketing dataset using Microsoft Excel and Python to uncover key performance drivers. The analysis revealed patterns in customer behavior, ROI trends, and engagement across channels, demographics, and regions.
 
 # Table of Content
-[Introduction](https://github.com/Humairah9/Marketing-Campaign-Insights/edit/main/README.md#introduction)
+
 
 ![image](https://github.com/user-attachments/assets/25d50196-4b5b-44b6-ab55-de8982aebb17)
 
