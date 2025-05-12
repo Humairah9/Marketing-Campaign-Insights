@@ -5,6 +5,8 @@ I performed an EDA on a digital marketing dataset using Microsoft Excel and Pyth
 - [Introduction](https://github.com/Humairah9/Marketing-Campaign-Insights/blob/main/README.md#introduction)
 - [Dataset Overview](https://github.com/Humairah9/Marketing-Campaign-Insights/blob/main/README.md#dataset-overview)
 - [Tool Used](https://github.com/Humairah9/Marketing-Campaign-Insights/blob/main/README.md#tools-used)
+- [Cleaning and Transformation](https://github.com/Humairah9/Marketing-Campaign-Insights/blob/main/README.md#data-cleaning--transformation)
+- 
 
 ![image](https://github.com/user-attachments/assets/25d50196-4b5b-44b6-ab55-de8982aebb17)
 
